@@ -1,2 +1,1 @@
-# 2023_OSS_dbwhdgjs
-OSS summary
+# OSS 요약노트
